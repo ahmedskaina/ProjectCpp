@@ -1,0 +1,10 @@
+release/dialog_stats.o
+release/employe.o
+release/loginn.o
+release/main.o
+release/mainwindow.o
+release/connection.o
+release/qrcodeg.o
+release/moc_dialog_stats.o
+release/moc_loginn.o
+release/moc_mainwindow.o
