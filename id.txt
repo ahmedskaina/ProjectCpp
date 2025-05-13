@@ -1,0 +1,6 @@
+ALTER TABLE PROJET ADD UUID VARCHAR2(100);
+//////////////////////////////
+UPDATE PROJET
+SET UUID = '4ffbdec4'
+WHERE ID_RESPONSABLE = 50;
+///////////////////////////////////
